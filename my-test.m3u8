@@ -1,0 +1,51 @@
+EXTM3U
+EXTINF:-1 tvg-id="7D7.ee" tvg-logo="https://i.imgur.com/WrQI2EN.png" group-title="General",7D7 (1080p)
+https://d7tv.pp.ua/hls/d7tv.m3u8
+EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="General",360° (1080p) (Not 24/7)
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+EXTINF:-1 tvg-id="ARTNTV.us" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png" group-title="General",ARTN TV (1080p) (Not 24/7)
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="News",CGTN Русский (1080p)
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+EXTINF:-1 tvg-id="Cinema1.md" tvg-logo="https://i.imgur.com/twNYF1W.png" group-title="Movies",Cinema 1 (1080p)
+http://62.233.57.226:8001/play/a00l00
+EXTINF:-1 tvg-id="ExclusivTV.md" tvg-logo="https://i.imgur.com/5OhE6N8.png" group-title="General",Exclusiv TV (1080p)
+http://62.233.57.226:8001/play/a00f
+EXTINF:-1 tvg-id="LoveNature.ca@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Outdoor",Love Nature HD (1080i)
+http://78.130.250.2:8023/play/a02m/index.m3u8
+EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Lifestyle",Luxe TV (1080p)
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+EXTINF:-1 tvg-id="NextTV.md" tvg-logo="https://i.imgur.com/64pv0lW.png" group-title="News",Next TV (1080p)
+http://62.233.57.226:8001/play/a00h
+EXTINF:-1 tvg-id="PremieraTV.md" tvg-logo="https://i.imgur.com/ds1ngS1.png" group-title="Entertainment",Premiera TV (1080p)
+http://62.233.57.226:8001/play/a009
+EXTINF:-1 tvg-id="SevimliTV.uz" tvg-logo="https://i.imgur.com/iMwzRlr.png" group-title="Family",Sevimli TV (1080p)
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
+EXTINF:-1 tvg-id="StarTV.md" tvg-logo="https://i.imgur.com/6BBnG6f.png" group-title="Entertainment",Star TV (1080p)
+http://62.233.57.226:8001/play/a008
+EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="Religious",TBN Baltia (1080p)
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+EXTINF:-1 tvg-id="TV1KG.kg" tvg-logo="https://i.imgur.com/Mti9t9C.png" group-title="General",TV1 KG (1080p)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+EXTINF:-1 tvg-id="TVBRICSRussian.ru" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS Russian (1080p)
+http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
+EXTINF:-1 tvg-id="TVNord.md" tvg-logo="https://i.imgur.com/86JYRVH.png" group-title="News",TV-Nord (1080p)
+https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
+EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="Movies",viju TV1000 action (1080p)
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="Movies",Дом Кино Премиум HD
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Звезда (1080p) (Not 24/7)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Undefined",Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General",НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+EXTINF:-1 tvg-id="NTVLaw.ru" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="Undefined",НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+EXTINF:-1 tvg-id="NTVSeries.ru" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="Series",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+EXTINF:-1 tvg-id="RusskiyBestseller.ru" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" group-title="Movies",Русский Бестселлер
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
+EXTINF:-1 tvg-id="TolkHD.ru" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-tolk.jpg?itok=EjM37GGs" group-title="News",Толк HD
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
